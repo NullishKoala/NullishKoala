@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects involving pets, wellbeing, sports, travelling and anything making life easier and more sustainable.
 - 🚀My aim is to create apps that would help people, my brain is constatnly giving me ideas. Now, I just need to learn how to develop all that! 🤓
 - 📋 My hobbies are reading books, learning Japanese and roller skating.
-- 📫 You can reach me here or on my LinkedIn https://www.linkedin.com/in/aneta-m-kaczmarek/!
+- 📫 You can reach me here or on my [LinkedIn] (https://www.linkedin.com/in/aneta-m-kaczmarek/)!
 
 <!---
 NullishKoala/NullishKoala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
