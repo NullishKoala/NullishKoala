@@ -8,6 +8,7 @@
 - 📫 You can reach me here or on my [LinkedIn](https://www.linkedin.com/in/aneta-m-kaczmarek/)!
 - 📒 You can find my portfolio projects [here](https://github.com/NullishKoala/Portfolio).
 
+
 <!---
 NullishKoala/NullishKoala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
